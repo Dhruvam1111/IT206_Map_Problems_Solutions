@@ -2,7 +2,7 @@
 <h2><b>Name and Student ID</b></h2>
 <div><li>Dhruvam Panchal - 202401415 </li></div>
 <h2><b>Overview</b></h2>
-<p><li>Submission links for each of the questions are given below along with the screenshots of the accepted solution in LeetCode. Click on any of the question, and it will direct you to the submission page of the accepted solution of my LeetCode account. Detailed solutions to each code is available in src folder and appropriate comments are added for better understanding.</li></p>
+<p><li>Submission links for each of the questions are given below along with the screenshots of the accepted solution in LeetCode. Click on any of the question, and it will direct you to the submission page of the accepted solution of my LeetCode account. Detailed solutions to each code is available in <b>'src'</b> folder and appropriate comments are added for better understanding.</li></p>
 <hr>
 <ol>
   <li type="I"><a href="https://leetcode.com/problems/two-sum/submissions/1592100848">Two-sum</a></li>
